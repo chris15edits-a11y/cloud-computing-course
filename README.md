@@ -1,2 +1,4 @@
-# cloud-computing-course
-Repository for course activities ,notes, and projects in Cloud Computing.
+Name: Chriwtopher John Gamboa
+Course: BSIT 4-H
+Instructor: Jenkielyn Torres
+School Year: 2026-2027
